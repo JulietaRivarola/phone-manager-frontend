@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Next.js build output
+.next/
+out/
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Yarn
+.yarn/
+.yarn-cache/
+.pnp.*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Parcel-bundler cache
+.cache/
+
+# webpack cache
+.cache/
+
+# Nuxt.js build output
+.nuxt/
+
+# Svelte build output
+public/build/
